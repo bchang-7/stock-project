@@ -1,0 +1,172 @@
+{
+  "WMT": {
+    "sec_ticker": "WMT",
+    "cik": "0000104169",
+    "title": "Walmart Inc."
+  },
+  "COST": {
+    "sec_ticker": "COST",
+    "cik": "0000909832",
+    "title": "COSTCO WHOLESALE CORP /NEW"
+  },
+  "PG": {
+    "sec_ticker": "PG",
+    "cik": "0000080424",
+    "title": "PROCTER & GAMBLE Co"
+  },
+  "KO": {
+    "sec_ticker": "KO",
+    "cik": "0000021344",
+    "title": "COCA COLA CO"
+  },
+  "PM": {
+    "sec_ticker": "PM",
+    "cik": "0001413329",
+    "title": "Philip Morris International Inc."
+  },
+  "CL": {
+    "sec_ticker": "CL",
+    "cik": "0000021665",
+    "title": "COLGATE PALMOLIVE CO"
+  },
+  "MO": {
+    "sec_ticker": "MO",
+    "cik": "0000764180",
+    "title": "ALTRIA GROUP, INC."
+  },
+  "MNST": {
+    "sec_ticker": "MNST",
+    "cik": "0000865752",
+    "title": "Monster Beverage Corp"
+  },
+  "MDLZ": {
+    "sec_ticker": "MDLZ",
+    "cik": "0001103982",
+    "title": "Mondelez International, Inc."
+  },
+  "PEP": {
+    "sec_ticker": "PEP",
+    "cik": "0000077476",
+    "title": "PEPSICO INC"
+  },
+  "TGT": {
+    "sec_ticker": "TGT",
+    "cik": "0000027419",
+    "title": "TARGET CORP"
+  },
+  "ADM": {
+    "sec_ticker": "ADM",
+    "cik": "0000007084",
+    "title": "Archer-Daniels-Midland Co"
+  },
+  "KDP": {
+    "sec_ticker": "KDP",
+    "cik": "0001418135",
+    "title": "Keurig Dr Pepper Inc."
+  },
+  "SYY": {
+    "sec_ticker": "SYY",
+    "cik": "0000096021",
+    "title": "SYSCO CORP"
+  },
+  "KVUE": {
+    "sec_ticker": "KVUE",
+    "cik": "0001944048",
+    "title": "Kenvue Inc."
+  },
+  "KMB": {
+    "sec_ticker": "KMB",
+    "cik": "0000055785",
+    "title": "KIMBERLY CLARK CORP"
+  },
+  "CASY": {
+    "sec_ticker": "CASY",
+    "cik": "0000726958",
+    "title": "CASEYS GENERAL STORES INC"
+  },
+  "KR": {
+    "sec_ticker": "KR",
+    "cik": "0000056873",
+    "title": "KROGER CO"
+  },
+  "HSY": {
+    "sec_ticker": "HSY",
+    "cik": "0000047111",
+    "title": "HERSHEY CO"
+  },
+  "DG": {
+    "sec_ticker": "DG",
+    "cik": "0000029534",
+    "title": "DOLLAR GENERAL CORP"
+  },
+  "CHD": {
+    "sec_ticker": "CHD",
+    "cik": "0000313927",
+    "title": "CHURCH & DWIGHT CO INC /DE/"
+  },
+  "KHC": {
+    "sec_ticker": "KHC",
+    "cik": "0001637459",
+    "title": "Kraft Heinz Co"
+  },
+  "DLTR": {
+    "sec_ticker": "DLTR",
+    "cik": "0000935703",
+    "title": "DOLLAR TREE, INC."
+  },
+  "EL": {
+    "sec_ticker": "EL",
+    "cik": "0001001250",
+    "title": "ESTEE LAUDER COMPANIES INC"
+  },
+  "GIS": {
+    "sec_ticker": "GIS",
+    "cik": "0000040704",
+    "title": "GENERAL MILLS INC"
+  },
+  "STZ": {
+    "sec_ticker": "STZ",
+    "cik": "0000016918",
+    "title": "CONSTELLATION BRANDS, INC."
+  },
+  "BG": {
+    "sec_ticker": "BG",
+    "cik": "0001996862",
+    "title": "Bunge Global SA"
+  },
+  "TSN": {
+    "sec_ticker": "TSN",
+    "cik": "0000100493",
+    "title": "TYSON FOODS, INC."
+  },
+  "MKC": {
+    "sec_ticker": "MKC",
+    "cik": "0000063754",
+    "title": "MCCORMICK & CO INC"
+  },
+  "SJM": {
+    "sec_ticker": "SJM",
+    "cik": "0000091419",
+    "title": "J M SMUCKER Co"
+  },
+  "CLX": {
+    "sec_ticker": "CLX",
+    "cik": "0000021076",
+    "title": "CLOROX CO /DE/"
+  },
+  "HRL": {
+    "sec_ticker": "HRL",
+    "cik": "0000048465",
+    "title": "HORMEL FOODS CORP /DE/"
+  },
+  "TAP": {
+    "sec_ticker": "TAP",
+    "cik": "0000024545",
+    "title": "MOLSON COORS BEVERAGE CO"
+  },
+  "BF.B": {
+    "sec_ticker": "BF-B",
+    "cik": "0000014693",
+    "title": "BROWN FORMAN CORP"
+  }
+}

@@ -1,0 +1,6 @@
+.venv/
+*.db
+raw_samples/
+__pycache__/
+*.pyc
+failures.log
